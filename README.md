@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Fernanda Marques
 
-- 🌱 Estudando Java e JavaScript
+- 🌱 Estudando Java ☕
 
 <div align="center">
   <a href="https://github.com/nandamarques">
