@@ -1,4 +1,4 @@
-## Olá! Eu sou a Fernanda Marques
+## Olá! Me chamo Fernanda Marques
 
 - 🌱 Estudando Java ☕
 
