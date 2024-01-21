@@ -1,6 +1,8 @@
 ## Olá! Me chamo Fernanda Marques
 
-- 🌱 Estudando Java ☕
+- Desenvolvimento Web
+- Banco de dados
+- Estudando para ser FullStack 
 
 <div align="center">
   <a href="https://github.com/nandamarques">
