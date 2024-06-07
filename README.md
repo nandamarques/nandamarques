@@ -1,9 +1,9 @@
 ## Olá, Eu sou a Fernanda!
 
 ### 👋 Sobre Mim
-- 📚 Atualmente estudando: Java e Spring Boot
+- 📚 Atualmente estudando: Java, Spring Boot e Android
 - 🌱 Sempre aprendendo: explorando novas tecnologias e tendências
-- 💡 Interesses: Desenvolvimento Web (FullStack), Banco de Dados, etc.
+- 💡 Interesses: Desenvolvimento Web (FullStack), Mobile, Banco de Dados, etc.
 - 🤝 Colaboração: aberta a projetos e ideias inovadoras
   
 ### 👩🏼‍💻 Tecnologias que já trabalhei: 
@@ -13,6 +13,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Nan-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img align="center" alt="Nan-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Nan-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Nan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +22,6 @@
   <img align="center" alt="Nan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img  align="center" alt="Nan-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" >
   <img align="center" alt="Nan-AWS" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg">
-
 </div>
   
  ##
