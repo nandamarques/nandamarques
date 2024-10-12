@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Fernanda!
 
 ### 👋 Sobre Mim
-- 📚 Atualmente estudando: Java, Spring Boot e Android
+- 📚 Atualmente estudando: Flutter, Kotlin e Spring Boot 
 - 🌱 Sempre aprendendo: explorando novas tecnologias e tendências
 - 💡 Interesses: Desenvolvimento Web (FullStack), Mobile, Banco de Dados, etc.
 - 🤝 Colaboração: aberta a projetos e ideias inovadoras
